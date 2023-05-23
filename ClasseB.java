@@ -31,4 +31,8 @@ public class ClasseB {
     return ("Método MB2");
   }
 
+  public String MB3(){
+    return ("Método MB3");
+  }
+
 };
