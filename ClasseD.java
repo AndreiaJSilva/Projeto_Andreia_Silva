@@ -16,9 +16,15 @@ public class ClasseD {
     double aux = x + 20.5;
     return ("Método MD2 - soma mais 20.5:" + aux);
   }
+<<<<<<< HEAD
   
   public String MD4(){
     return ("Método MD4");
+=======
+
+  public String MD3(){
+    return ("Método MD3");
+>>>>>>> 47c8102 (Criacao do metodo MD3)
   }
   
 }
