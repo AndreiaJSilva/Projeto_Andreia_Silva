@@ -14,5 +14,9 @@ public class ClasseC {
   public String MC2(){
     return ("Método MC2 - ClasseC");
   }
+   
+  public String MC3(){
+    return ("Método MC3");
+  }
 
 };
